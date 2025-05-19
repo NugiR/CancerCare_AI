@@ -166,7 +166,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # NLTK
-nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 
 # Sidebar
